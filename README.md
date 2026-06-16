@@ -1,6 +1,8 @@
+# Why the 4:3 Diet Worked Better for Me Than the 5:2 Diet
+
 <img width="937" height="389" alt="Image" src="https://github.com/user-attachments/assets/0f0fed50-e6d7-40c9-9359-0ffde36c97c2" />
 ```md
-# Why the 4:3 Diet Worked Better for Me Than the 5:2 Diet
+```md
 
 For years, I felt like I was stuck in a loop.
 
@@ -14,7 +16,7 @@ What if there was a slightly different approach that could produce better result
 
 That question eventually led me to the 4:3 diet, and in my case, it made all the difference.
 
-A Simple Adjustment With a Big Impact
+## A Simple Adjustment With a Big Impact
 
 The idea behind the 4:3 diet is straightforward. Rather than eating normally for five days and restricting calories for two, as with the 5:2 diet, you instead have four regular eating days and three reduced-calorie days each week.
 
@@ -24,7 +26,7 @@ But for me, that one additional fasting day was enough to create a routine that 
 
 For the first time in many years, I wasn’t constantly thinking about dieting. I was simply following a weekly rhythm that worked.
 
-Two Decades of Trial and Error
+## Two Decades of Trial and Error
 
 My interest in weight loss didn’t begin with the 4:3 diet.
 
@@ -36,7 +38,7 @@ The biggest lesson was that an eating plan doesn’t have to be perfect—it has
 
 That realization is one of the reasons the 4:3 diet appealed to me so strongly.
 
-It Wasn’t Just Me
+## It Wasn’t Just Me
 
 After seeing encouraging results myself, I naturally spoke about the approach with family and friends.
 
@@ -46,7 +48,7 @@ Everyone’s body is different, and no diet works equally well for every individ
 
 The more I searched online, the more surprised I became by how little information existed about it compared with the enormous amount of content devoted to the 5:2 diet.
 
-Why I Created 43Diet.com
+## Why I Created 43Diet.com
 
 Outside of health and nutrition, I have spent years working with domain names and online businesses.
 
@@ -60,7 +62,7 @@ As I documented my experiences, compared different fasting strategies, and refle
 
 By the time I finished editing and rewriting it, the manuscript exceeded 50,000 words.
 
-Why I Wrote the Ebook
+## Why I Wrote the Ebook
 
 There are countless books about dieting.
 
@@ -76,7 +78,7 @@ And one that offers practical observations from someone who has actually lived t
 
 The ebook available through 43Diet.com is based on that philosophy.
 
-Another Option for People Exploring Intermittent Fasting
+## Another Option for People Exploring Intermittent Fasting
 
 Interest in intermittent fasting continues to grow around the world, and for good reason. Many people appreciate approaches that focus on weekly structure rather than constant calorie counting.
 
@@ -88,7 +90,7 @@ That was exactly my own experience.
 
 Changing from two fasting days to three proved to be the adjustment that finally helped me break years of repeated dieting cycles.
 
-A Personal Project With a Simple Goal
+## A Personal Project With a Simple Goal
 
 The mission behind 43Diet.com isn’t to convince everyone to follow one particular eating pattern.
 
@@ -96,7 +98,7 @@ It’s to raise awareness of an alternative that many people have never even hea
 
 If my experience can save someone else years of frustration—or simply encourage them to explore another option that better fits their lifestyle—then writing the ebook will have been worthwhile.
 
-Learn More at 43Diet.com
+## Learn More at 43Diet.com
 
 If you’re curious about the 4:3 diet, interested in comparing it with the 5:2 diet, or simply exploring different forms of intermittent fasting, I invite you to visit 43Diet.com.
 
